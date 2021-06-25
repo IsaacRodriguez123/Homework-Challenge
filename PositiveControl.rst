@@ -215,6 +215,7 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
 
 
              8.4.2 RT-PCR Results in Triplicate
+             
 .. image:: https://raw.githubusercontent.com/IsaacRodriguez123/Homework-Challenge/main/image.png?sanitize=true
           
            8.5 CT Results
