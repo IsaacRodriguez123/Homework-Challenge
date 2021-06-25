@@ -214,7 +214,7 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
 
 
 
-             8.4.2 ![](Homework-Challenge/image.png)
+             8.4.2 ![](./Homework-Challenge/image.png)
           
            8.5 CT Results
 
