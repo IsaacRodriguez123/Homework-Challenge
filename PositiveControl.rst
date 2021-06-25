@@ -73,7 +73,7 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
           * TaqPath RT-PCR Covid 21 Kit 
           * Covid 21 Real Time PCR Assay Multiplex (ORF1ab, N gene, S gene, MS2)
           
-      5.2 Samples and Test Materials 
+     5.2 Samples and Test Materials 
           +-----------------+----------------+----------------------+------------------+
           |Originating ID   |Date Acquired   |Storage Location      |Storage Position  | 
           +=================+================+======================+==================+
@@ -90,49 +90,49 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
       
 6. Test Preparation
 -------------------
-      6.1 Select 5 positive samples that show amplification in all 3 genes (N, S and ORF1ab), making sure to exclude 
+     6.1 Select 5 positive samples that show amplification in all 3 genes (N, S and ORF1ab), making sure to exclude 
           any variant samples, specifically the UK variant with an S gene drop out. 
       
 7. Test Process
 ---------------
-      7.1 Prepare Samples
+     7.1 Prepare Samples
 
-          7.1.1 Thaw samples at room temperature. 
+            7.1.1 Thaw samples at room temperature. 
 
-          7.1.2 Vortex for 30 seconds and centrifuge for 1 minute at 2000 XG.
+            7.1.2 Vortex for 30 seconds and centrifuge for 1 minute at 2000 XG.
 
-      7.2 Label three 2 mL tubes: A, B and C.  
+     7.2 Label three 2 mL tubes: A, B and C.  
 
-      7.3 Create a Covid 21 positive pool stock
+     7.3 Create a Covid 21 positive pool stock
 
-          7.3.1 Pipet 50 μL from each sample into tube B, for a total volume of 250 μL and vortex well.  
+            7.3.1 Pipet 50 μL from each sample into tube B, for a total volume of 250 μL and vortex well.  
 
-      7.4 Prepare a 1:2 dilution from the positive pool stock for RNA extraction
+     7.4 Prepare a 1:2 dilution from the positive pool stock for RNA extraction
 
-          7.4.1 Transfer 225 μL from tube B to tube C.  
+            7.4.1 Transfer 225 μL from tube B to tube C.  
 
-          7.4.2 Add 225 μL of sterile saline to tube C for a total volume of 450 μL. 
+            7.4.2 Add 225 μL of sterile saline to tube C for a total volume of 450 μL. 
  
-          7.4.3 Run 400 μL of tube C through Tecan Fluent and place in position E12 of the KingFisher 96 deep-well 
+            7.4.3 Run 400 μL of tube C through Tecan Fluent and place in position E12 of the KingFisher 96 deep-well 
                 plate
 
-          7.4.4 Process sample through extraction
+            7.4.4 Process sample through extraction
 
-          7.4.5 Transfer the eluate from the contents of tube C to tube A.  
+            7.4.5 Transfer the eluate from the contents of tube C to tube A.  
 
-          7.4.6 There should be approximately 50 μL.
+            7.4.6 There should be approximately 50 μL.
 
-      7.5 Run the eluate in tube A through dd-PCR
+     7.5 Run the eluate in tube A through dd-PCR
 
-          7.5.1 Note this is a 1:2 dilution of your pool sample.
+            7.5.1 Note this is a 1:2 dilution of your pool sample.
 
-      7.6 Place tube B in a 4C fridge
+     7.6 Place tube B in a 4C fridge
 
-          7.6.1 The 25 uL of COVID 21 positive pool stock will be used to create PEC aliquots post analysis
+            7.6.1 The 25 uL of COVID 21 positive pool stock will be used to create PEC aliquots post analysis
 
 8. Post-Testing Analysis
 ------------------------
-      8.1 dd-PCR Results (RUO)
+     8.1 dd-PCR Results (RUO)
           +-------------------+-------------------+-----------------------------------+
           |Gene               |RNA Concentration  |Sample Concentration (copies/mL)   |
           +===================+===================+===================================+
@@ -143,36 +143,36 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
           |S Gene             |129734.6542        |3,243,366.36                       |
           +-------------------+-------------------+-----------------------------------+
           
-      8.2 dd-PCR Results Explained
+     8.2 dd-PCR Results Explained
 
-          8.2.1 The initial sample representing the positive pool (tube C) contained a 1:2 dilution with a total 
+            8.2.1 The initial sample representing the positive pool (tube C) contained a 1:2 dilution with a total 
                 tested volume of 400 μl.
 
-          8.2.2 The dd-PCR was run on Tube A with an average number of copies/gene/μl of approximately 3 million/mL, 
+            8.2.2 The dd-PCR was run on Tube A with an average number of copies/gene/μl of approximately 3 million/mL, 
                 but must be multiplied by the dilution factor of 2 for a total of 6 million/ mL
 
-                8.2.2.1 Note that the sample concentration is in copies/mL and must be divided by 1000 to convert to 
+                 8.2.2.1 Note that the sample concentration is in copies/mL and must be divided by 1000 to convert to 
                         copies/μL.
 
-          8.2.3 For the initial positive sample batch in tube B  the concentration was 6,000 copies/μL.  
+            8.2.3 For the initial positive sample batch in tube B  the concentration was 6,000 copies/μL.  
 
-          8.2.4 The limit of detection for the current post-extraction positive control is 24 copies/μL.  
+            8.2.4 The limit of detection for the current post-extraction positive control is 24 copies/μL.  
 
-          8.2.5 For the pre-extraction positive control a goal of at least 5 times the Limit Of Detection (LOD); 120 
+            8.2.5 For the pre-extraction positive control a goal of at least 5 times the Limit Of Detection (LOD); 120 
                 copies/μL is targeted.
                 
-       8.3 Calculate the Volume Needed From the Positive Pool Stock to Make PEC Aliquots
+     8.3 Calculate the Volume Needed From the Positive Pool Stock to Make PEC Aliquots
        
-           8.3.1 The sample testing process is 400 μL of sample, which is extracted to 50 μL of eluate, and 17.5 μL of 
+            8.3.1 The sample testing process is 400 μL of sample, which is extracted to 50 μL of eluate, and 17.5 μL of 
                  eluate is transferred to a RT-PCR plate for testing.  With a target of 120 copies in a 400 μL sample, 
                  this equates to 0.3 copies/μL or 300cps/mL per sample concentration. 
  
-           8.3.2 The number of copies in the elution: 120 copies/50 μL = 2.4 copies/μL
+            8.3.2 The number of copies in the elution: 120 copies/50 μL = 2.4 copies/μL
 
-           8.3.3 The number of copies transferred to RTPCR: 2.4 copies/μL times 17.5 μL of eluate transferred to RTPCR 
+            8.3.3 The number of copies transferred to RTPCR: 2.4 copies/μL times 17.5 μL of eluate transferred to RTPCR 
                  = 42 copies
 
-           8.3.4 Use the dilution equation:  C1*V1=C2*V2  
+            8.3.4 Use the dilution equation:  C1*V1=C2*V2  
  
                  8.3.4.1 C1 = Concentration 1
 
@@ -182,7 +182,7 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
 
                  8.3.4.4 V2 = Volume 2
 
-           8.3.5 The initial stock concentration, C1, is equal to 6,000 viral copies/μl, while the target 
+            8.3.5 The initial stock concentration, C1, is equal to 6,000 viral copies/μl, while the target 
                  concentration, C2, is 0.3 viral copies/μL and the target volume, V2, is 36,000 μL of sterile saline.
   
                  8.3.5.1 The target volume is selected by anticipating a one month supply of 450 μL aliquots and using 
@@ -190,13 +190,13 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
 
                  8.3.5.2 80 aliquots times 450 μL is 36,000 μL = 80 aliquots of 440 μL with dead volume.  
 
-           8.3.6 C1*V1 = C2*V2
+            8.3.6 C1*V1 = C2*V2
                  (6,000 copies/μL)*V1 = (0.3 copies/μL)*(36,000 μL)
                  *V1=1.8* μL of sample stock
 
-           8.3.7 The final dilution factor is 20,000.
+            8.3.7 The final dilution factor is 20,000.
            
-         8.4 RT-PCR Results
+     8.4 RT-PCR Results
          
             8.4.1 Perform RT-PCR from the positive pool batch, at the correct dilution, in triplicate.
              
@@ -211,10 +211,12 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
                    +---------------------------+---------------------------+--------------------------+
                    |Sample 3                   |E12                        |I23                       |
                    +---------------------------+---------------------------+--------------------------+
-             
+                   
+            8.4.2 RT-PCR Results in Triplicate 
+            
 .. image:: https://raw.githubusercontent.com/IsaacRodriguez123/Homework-Challenge/main/image.png?sanitize=true
 
-           8.5 CT Results
+     8.5 CT Results
 
            +--------------+---------------+----------------+----------------+----------------+---------------+
            |Well Position |MS2            |N Gene          |S Gene          |ORF Gene        |Call           |
@@ -235,14 +237,14 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
 9. Create Batch Aliquots of PEC
 -------------------------------
 
-      9.1 Acquire three 50 mL conical tubes.  
+     9.1 Acquire three 50 mL conical tubes.  
       
-      9.2 Pipet 1.8 μL from the positive control stock in tube B into each 50mL conical tube. 
+     9.2 Pipet 1.8 μL from the positive control stock in tube B into each 50mL conical tube. 
       
-      9.3 Add 35,998.2 μL of sterile saline to each conical tube for a 1:20,000 dilution and vortex well.
+     9.3 Add 35,998.2 μL of sterile saline to each conical tube for a 1:20,000 dilution and vortex well.
       
-      9.4 Using two hundred and forty 2mL tubes, aliquot 440 μL of PEC from the conical tubes into each 2 mL tube.  
+     9.4 Using two hundred and forty 2mL tubes, aliquot 440 μL of PEC from the conical tubes into each 2 mL tube.  
       
-      9.5 Each 50 mL conical tube should contain eighty one 440 μL positive extraction control (PEC) samples.
+     9.5 Each 50 mL conical tube should contain eighty one 440 μL positive extraction control (PEC) samples.
       
-      9.6 Positive Extraction Control aliquot samples should be stored at -80 ℃ until ready to use. 
+     9.6 Positive Extraction Control aliquot samples should be stored at -80 ℃ until ready to use. 
