@@ -215,7 +215,6 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
 
 
              8.4.2
-.. image:: https://raw.githubusercontent.com/IsaacRodriguez123/Homework-Challenge/main/image.png?sanitize=true
           
            8.5 CT Results
 
@@ -249,3 +248,5 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
       9.5 Each 50 mL conical tube should contain eighty one 440 μL positive extraction control (PEC) samples.
       
       9.6 Positive Extraction Control aliquot samples should be stored at -80 ℃ until ready to use. 
+
+.. image:: https://raw.githubusercontent.com/IsaacRodriguez123/Homework-Challenge/main/image.png?sanitize=true
