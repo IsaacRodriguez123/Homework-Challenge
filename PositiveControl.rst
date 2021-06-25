@@ -198,7 +198,7 @@ This Positive Extraction Control (PEC) batch is divided into single-use aliquots
            
          8.4 RT-PCR Results
          
-             8.4.1 Perform RT-PCR from the positive pool batch, at the correct dilution, in triplicate.
+            8.4.1 Perform RT-PCR from the positive pool batch, at the correct dilution, in triplicate.
              
                    +---------------------------+---------------------------+--------------------------+
                    |RT-PCR Performed:          |Dilution Factor 1:20,000   |RT Plate                  |
